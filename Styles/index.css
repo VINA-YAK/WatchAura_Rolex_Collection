@@ -1,14 +1,14 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(../images/about1.jpg);
-    background-repeat: no-repeat;
+/*     background-image: url(../images/about1.jpg); */
+/*     background-repeat: no-repeat; */
     background-size: 100%;
    
     animation: disco 12s infinite ease-in-out;
 }
 
-@keyframes disco{
+/* @keyframes disco{
     0%{
         
         background-image: url(../images/home_bg.jpg);
@@ -24,7 +24,7 @@ body{
     100%{
         background-image: url(../images/home_bg4.jpg);    
     }
-}
+} */
 #nav #left{
     display: flex;
 }
